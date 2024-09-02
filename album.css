@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: gainsboro;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+h1 {
+    align-items: center;
+}
