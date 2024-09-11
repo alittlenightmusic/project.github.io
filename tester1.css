@@ -51,7 +51,7 @@ nav {
 }
 
 .settings {
-    background-color: rgb(92, 92, 182) ;
+    background-color: rgb(46, 46, 133) ;
     display: inline-block; 
     position:fixed;
     z-index:  2;
@@ -112,6 +112,13 @@ ul.sub-menu li:hover {
     padding-bottom: 10px;
 }
 
+.songs h1 {
+    margin-left: 18%;
+}
+.songs {
+    margin-left: 150px;
+}
+
 .songs ul {
     list-style-type: none;
     text-decoration: none;
@@ -128,10 +135,59 @@ footer {
     align-items: center;
 }
 
+
+
 #ahdn {
-    margin-left: 150px;
+    margin-left: 25%;
 }
 
 #ishkb {
-    margin-left: 150px;
+    margin-left: 25%;
+}
+
+#cbml {
+    margin-left: 25%;
+}
+
+#ycdt {
+    margin-left: 25%;
+}
+
+#iif {
+    margin-left: 25%;
+}
+
+#ailh {
+    margin-left: 25%;
+}
+
+#tmw {
+    margin-left: 25%;
+}
+
+#ataa {
+    margin-left: 25%;
+}
+
+#ici {
+    margin-left: 25%;
+}
+#ihjtdwy {
+    margin-left: 25%;
+}
+
+#ibb {
+    margin-left: 25%;
+}
+
+#ici {
+    margin-left: 25%;
+}
+
+#wigh {
+    margin-left: 25%;
+}
+
+#twst {
+    margin-left: 25%;
 }
